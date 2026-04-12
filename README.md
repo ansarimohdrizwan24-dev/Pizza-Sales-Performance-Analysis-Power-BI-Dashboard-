@@ -1,3 +1,5 @@
+# 🍕 Pizza Sales Performance Analysis (Power BI Dashboard)
+
 ## 📊 Project Overview
 
 This project presents an interactive Power BI dashboard to analyze pizza sales data. It helps in understanding revenue trends, customer behavior, and product performance.
