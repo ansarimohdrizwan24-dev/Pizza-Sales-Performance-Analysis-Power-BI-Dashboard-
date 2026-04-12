@@ -44,3 +44,8 @@ This project presents an interactive Power BI dashboard to analyze pizza sales d
 <img width="1294" height="791" alt="image" src="https://github.com/user-attachments/assets/fde433b0-a048-446f-bab9-0cfec6dfa362" />
 
 
+## 📌 Conclusion
+
+This dashboard provides valuable business insights that help in identifying top-selling products, peak sales hours, and customer purchasing patterns, enabling data-driven decision making.
+
+
