@@ -42,3 +42,4 @@ This project presents an interactive Power BI dashboard to analyze pizza sales d
 ![Product Performance](Screenshot 2025-12-20 122916.png)
 
 ![Customer Insights](Screenshot 2025-12-20 123006.png)
+<img width="1305" height="784" alt="image" src="https://github.com/user-attachments/assets/4f947bce-2ca3-43ad-8b5a-cf368a1b12cb" />
