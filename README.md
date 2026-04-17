@@ -83,6 +83,112 @@ This project presents an interactive Power BI dashboard to analyze pizza sales d
 
 <img width="1294" height="791" alt="image" src="https://github.com/user-attachments/assets/fde433b0-a048-446f-bab9-0cfec6dfa362" />
 
+## Charts and Insights
+
+1. Executive Summary Dashboard
+   Charts Used + Explanation
+
+   1️⃣ KPI Cards (Top Metrics)
+      What it shows:
+      - Total Revenue
+      - Average Order Value
+      - Total Pizzas Sold
+      - Total Orders 
+
+   2️⃣ Total Revenue by Month
+       Chart Type: Line Chart
+       What it shows:
+        - Monthly trend of total revenue over time
+   
+   3️⃣ Total Revenue by Category
+      Chart Type: Donut Chart
+      What it shows:
+       - Contribution of each pizza category (Classic, Supreme, etc.)
+  
+   4️⃣ Total Revenue by Size
+      Chart Type: Donut Chart
+      What it shows:
+       - Revenue distribution by pizza size (S, M, L, XL)
+  
+   5️⃣ Total Orders by Hour
+      Chart Type: Bar Chart / Column Chart
+      What it shows:
+       - Number of orders placed in each hour of the day
+
+   6️⃣ Total Orders by Day
+      Chart Type: Bar Chart
+      What it shows:
+       - Orders distribution across days (Mon–Sun)
+   
+2. Product Performance Dashboard
+
+   1️⃣ Top 10 Pizzas by Revenue
+      Chart Type: Horizontal Bar Chart
+      What it shows:
+       - Top 10 pizzas generating highest revenue
+
+   2️⃣ Top 10 Pizzas by Quantity Sold
+      Chart Type: Horizontal Bar Chart
+      What it shows:
+       - Pizzas sold in highest quantity
+
+   3️⃣ Total Sales by Category
+      Chart Type: Bar Chart / Column Chart
+      What it shows:
+       - Sales comparison across pizza categories
+
+   4️⃣ Detailed Product Table
+      Chart Type: Table / Matrix
+      What it shows:
+      👉 Each pizza with:
+         - Revenue
+         - Quantity sold
+         - Orders
+
+   5️⃣ Category Filters / Slicers
+      Chart Type: Slicer
+      What it shows:
+       - Filters data by category, size, etc.
+
+### Important Insight(Product Performance)
+  👉 Difference between:
+     - Top Revenue Pizza ≠ Top Quantity Pizza
+  👉 Means:
+     - Some pizzas are expensive (high revenue)
+     - Some are popular (high quantity)
+
+3. Time & Customer Insights Dashboard
+
+   1️⃣ Total Revenue by Day
+      Chart Type: Bar Chart
+      What it shows:
+       - Revenue generated on each day (Mon–Sun)
+
+   2️⃣ Weekday vs Weekend Sales
+      Chart Type: Bar Chart / Column Chart
+      What it shows:
+      - Comparison between weekday and weekend sales
+
+   3️⃣ Orders by Hour (Time Analysis)
+      Chart Type: Bar Chart
+      What it shows:
+      - Number of orders at each hour
+
+   4️⃣ Sales Trend Over Time
+      Chart Type: Line Chart
+      What it shows:
+      - Revenue trend over time (daily/monthly)
+
+###Key Business Insights(Time & Customer Insights)
+
+      From this dashboard you can say:
+        - Peak sales happen during specific hours (like evening)
+        - Weekends usually have higher sales than weekdays
+        - Some days consistently perform better
+
+##📊 Project Summary
+
+This project analyzes pizza sales data using Power BI to extract meaningful business insights. It includes data cleaning, transformation, and visualization to understand revenue trends, customer behavior, and product performance. The dashboards highlight key metrics, top-selling pizzas, peak ordering hours, and sales patterns across time, helping in data-driven decision making.
 
 ## 📌 Conclusion
 
