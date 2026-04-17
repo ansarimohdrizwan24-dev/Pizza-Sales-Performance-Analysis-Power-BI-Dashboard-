@@ -125,9 +125,16 @@ This project presents an interactive Power BI dashboard to analyze pizza sales d
       4. Sales Trend Over Time : Matrix Chart : Revenue trend over time (Day and Hour)
 
 
-##📊 Project Summary
+## 📊 Project Summary
 
 This project analyzes pizza sales data using Power BI to extract meaningful business insights. It includes data cleaning, transformation, and visualization to understand revenue trends, customer behavior, and product performance. The dashboards highlight key metrics, top-selling pizzas, peak ordering hours, and sales patterns across time, helping in data-driven decision making.
+
+
+## 📊 Project Insights
+
+The analysis reveals that revenue is driven by specific categories and pizza sizes, with peak sales occurring during evenings and weekends.
+Top-performing pizzas contribute significantly to overall sales, while customer ordering behavior follows predictable time patterns.
+These insights help businesses optimize sales strategies and improve decision making.
 
 
 ## 📌 Conclusion
