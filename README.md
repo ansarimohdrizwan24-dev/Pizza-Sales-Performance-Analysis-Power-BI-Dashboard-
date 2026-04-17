@@ -141,4 +141,6 @@ These insights help businesses optimize sales strategies and improve decision ma
 
 This dashboard provides valuable business insights that help in identifying top-selling products, peak sales hours, and customer purchasing patterns, enabling data-driven decision making.
 
+## ⭐ Support
 
+If you like this project, don't forget to ⭐ the repository and share it!
